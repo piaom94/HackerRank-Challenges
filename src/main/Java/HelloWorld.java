@@ -6,6 +6,7 @@ public class HelloWorld {
         Scanner scan = new Scanner(System.in);
 
         // Read a full line of input from stdin and save it to our variable, inputString.
+        System.out.println("Welcome ");
         System.out.println("Please enter your name: ");
         String inputString = scan.nextLine();
 
