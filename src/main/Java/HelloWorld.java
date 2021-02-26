@@ -14,8 +14,8 @@ public class HelloWorld {
         scan.close();
 
         // Print a string literal saying "Hello, World." to stdout.
-        System.out.println("Hello "+ inputString);
-
+        System.out.println("Hello " + inputString);
+        System.out.println("goodbye " + inputString);
     }
 }
 
