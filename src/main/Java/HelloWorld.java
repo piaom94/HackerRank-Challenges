@@ -15,7 +15,6 @@ public class HelloWorld {
 
         // Print a string literal saying "Hello, World." to stdout.
         System.out.println("Hello " + inputString);
-
         System.out.println("goodbye " + inputString);
     }
 }
